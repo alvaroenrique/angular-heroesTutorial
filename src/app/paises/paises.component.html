@@ -1,0 +1,9 @@
+<h2>Paises que hablan español</h2>
+<ul>
+  <li *ngFor="let pais of paises"> <span> Pais: {{pais.name}}</span>  
+    <div>
+        <p>Bandera:</p>
+        <img src="{{pais.flag}}" alt="">
+    </div>  
+  </li>
+</ul>

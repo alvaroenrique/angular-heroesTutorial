@@ -1,0 +1,19 @@
+.heroe {
+    display: flex;
+    font-size: 1em;
+    margin: 1em 0;
+}
+.id {
+    font-size: 1.5em;
+    background-color: rgb(98, 156, 175);
+    color: white;
+    padding: .3em;
+    width: 1em
+}
+.nombre {
+    background-color: rgb(201, 201, 201);
+    padding: .5em;
+    text-align: center;
+    margin: 0 1em;
+    width: 10em
+}
